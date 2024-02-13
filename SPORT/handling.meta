@@ -972,13 +972,13 @@
     	<Item type="CHandlingData">
     		<handlingName>COQUETTE4</handlingName>
     		<fMass value="1600.000000" />
-    		<fDownforceModifier value="205.0" />
+    		<!-- <fDownforceModifier value="205.0" /> -->
     		<fInitialDragCoeff value="8.500000" />
     		<fPercentSubmerged value="85.000000" />
     		<vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
     		<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
     		<fDriveBiasFront value="0.000000" />
-    		<nInitialDriveGears value="8" />
+    		<nInitialDriveGears value="6" />
     		<fInitialDriveForce value="0.350000" />
     		<fDriveInertia value="1.000000" />
     		<fClutchChangeRateScaleUpShift value="3.600000" />
