@@ -9,12 +9,12 @@
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.200000" />
 			<fDriveBiasFront value="0.000000" />
-			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.340000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="0.280000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="2.200000" />
 			<fClutchChangeRateScaleDownShift value="2.200000" />
-			<fInitialDriveMaxFlatVel value="148.000000" />
+			<fInitialDriveMaxFlatVel value="175.000000" />
 			<fBrakeForce value="1.000000" />
 			<fBrakeBiasFront value="0.550000" />
 			<fHandBrakeForce value="0.700000" />
@@ -94,11 +94,11 @@
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.200000" />
 			<fDriveBiasFront value="0.300000" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.320000" />
+			<fInitialDriveForce value="0.270000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="5.200000" />
 			<fClutchChangeRateScaleDownShift value="5.200000" />
-			<fInitialDriveMaxFlatVel value="155.000000" />
+			<fInitialDriveMaxFlatVel value="175.000000" />
 			<fBrakeForce value="1.000000" />
 			<fBrakeBiasFront value="0.550000" />
 			<fHandBrakeForce value="0.700000" />
@@ -120,8 +120,8 @@
 			<fSuspensionBiasFront value="0.490000" />
 			<fAntiRollBarForce value="0.700000" />
 			<fAntiRollBarBiasFront value="0.550000" />
-			<fRollCentreHeightFront value="0.20000" />
-			<fRollCentreHeightRear value="0.20000" />
+			<fRollCentreHeightFront value="0.06000" />
+			<fRollCentreHeightRear value="0.06000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -271,17 +271,17 @@
 		<Item type="CHandlingData">
 			<handlingName>BUFFALO2</handlingName>
 			<fMass value="1650.000000" />
-			<fInitialDragCoeff value="8.500000" />
+			<fInitialDragCoeff value="10.500000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
 			<fDriveBiasFront value="0.000000" />
-			<nInitialDriveGears value="8" />
-			<fInitialDriveForce value="0.330000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="0.290000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="3.000000" />
 			<fClutchChangeRateScaleDownShift value="3.000000" />
-			<fInitialDriveMaxFlatVel value="187.5000000" />
+			<fInitialDriveMaxFlatVel value="170.5000000" />
 			<fBrakeForce value="0.900000" />
 			<fBrakeBiasFront value="0.425000" />
 			<fHandBrakeForce value="0.600000" />
@@ -393,18 +393,18 @@
 		<Item type="CHandlingData">
 			<handlingName>CALICO</handlingName>
 			<fMass value="1448.000000" />
-			<fInitialDragCoeff value="9.475000" />
-			<fDownforceModifier value="150" />
+			<fInitialDragCoeff value="11.475000" />
+			<!-- <fDownforceModifier value="150" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.120000" z="0.000000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.150000" />
 			<fDriveBiasFront value="0.480000" />
 			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.338500" />
+			<fInitialDriveForce value="0.270000" />
 			<fDriveInertia value="1.000000" />
-			<fClutchChangeRateScaleUpShift value="5.800000" />
-			<fClutchChangeRateScaleDownShift value="5.800000" />
-			<fInitialDriveMaxFlatVel value="149.75000" />
+			<fClutchChangeRateScaleUpShift value="2.800000" />
+			<fClutchChangeRateScaleDownShift value="2.800000" />
+			<fInitialDriveMaxFlatVel value="169.75000" />
 			<fBrakeForce value="0.825000" />
 			<fBrakeBiasFront value="0.481500" />
 			<fHandBrakeForce value="0.650000" />
@@ -459,11 +459,11 @@
 			<vecInertiaMultiplier x="1.200000" y="1.400000" z="1.400000" />
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.350000" />
+			<fInitialDriveForce value="0.310000" />
 			<fDriveInertia value="1.000000" />
-			<fClutchChangeRateScaleUpShift value="6.000000" />
-			<fClutchChangeRateScaleDownShift value="6.000000" />
-			<fInitialDriveMaxFlatVel value="158.000000" />
+			<fClutchChangeRateScaleUpShift value="2.000000" />
+			<fClutchChangeRateScaleDownShift value="2.000000" />
+			<fInitialDriveMaxFlatVel value="178.000000" />
 			<fBrakeForce value="0.800000" />
 			<fBrakeBiasFront value="0.500000" />
 			<fHandBrakeForce value="0.500000" />
@@ -520,10 +520,10 @@
             <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" /> 
             <fDriveBiasFront value="0.000000" />
             <nInitialDriveGears value="6" />
-            <fInitialDriveForce value="0.350000" />
+            <fInitialDriveForce value="0.320000" />
             <fDriveInertia value="1.000000" />
-            <fClutchChangeRateScaleUpShift value="3.200000" />
-            <fClutchChangeRateScaleDownShift value="3.200000" />
+            <fClutchChangeRateScaleUpShift value="2.200000" />
+            <fClutchChangeRateScaleDownShift value="2.200000" />
             <fInitialDriveMaxFlatVel value="180.500000" />
             <fBrakeForce value="0.800000" />
             <fBrakeBiasFront value="0.600000" />
@@ -575,18 +575,18 @@
 		<Item type="CHandlingData">
 			<handlingName>COMET3</handlingName>
 			<fMass value="1200.000000" />
-			<fInitialDragCoeff value="9.210000" />
-			<fDownforceModifier value="1.75" />
+			<fInitialDragCoeff value="10.500000" />
+			<!-- <fDownforceModifier value="1.75" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
 			<vecInertiaMultiplier x="1.200000" y="1.500000" z="1.600000" />
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.340000" />
+			<fInitialDriveForce value="0.300000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="2.200000" />
 			<fClutchChangeRateScaleDownShift value="2.200000" />
-			<fInitialDriveMaxFlatVel value="152.000000" />
+			<fInitialDriveMaxFlatVel value="172.000000" />
 			<fBrakeForce value="0.800000" />
 			<fBrakeBiasFront value="0.600000" />
 			<fHandBrakeForce value="0.800000" />
@@ -608,8 +608,8 @@
 			<fSuspensionBiasFront value="0.470000" />
 			<fAntiRollBarForce value="0.900000" />
 			<fAntiRollBarBiasFront value="0.680000" />
-			<fRollCentreHeightFront value="0.100000" />
-			<fRollCentreHeightRear value="0.150000" />
+			<fRollCentreHeightFront value="0.120000" />
+			<fRollCentreHeightRear value="0.050000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -637,17 +637,17 @@
 		<Item type="CHandlingData">
 			<handlingName>COMET4</handlingName>
 			<fMass value="1150.000000" />
-			<fInitialDragCoeff value="8.600000" />
+			<fInitialDragCoeff value="10.600000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.170000" z="0.000000" />
 			<vecInertiaMultiplier x="1.200000" y="1.100000" z="1.300000" />
 			<fDriveBiasFront value="0.300000" />
 			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.292500" />
+			<fInitialDriveForce value="0.290000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="3.200000" />
 			<fClutchChangeRateScaleDownShift value="3.200000" />
-			<fInitialDriveMaxFlatVel value="152.000000" />
+			<fInitialDriveMaxFlatVel value="169.000000" />
 			<fBrakeForce value="0.800000" />
 			<fBrakeBiasFront value="0.600000" />
 			<fHandBrakeForce value="0.800000" />
@@ -724,7 +724,7 @@
 		<Item type="CHandlingData">
 			<handlingName>COMET5</handlingName>
 			<fMass value="1550.000000" />
-			<fDownforceModifier value="225.00" />
+			<!-- <fDownforceModifier value="225.00" /> -->
 			<fInitialDragCoeff value="9.950000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="-0.100000" />
@@ -735,7 +735,7 @@
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="6.200000" />
 			<fClutchChangeRateScaleDownShift value="6.200000" />
-			<fInitialDriveMaxFlatVel value="157.500000" />
+			<fInitialDriveMaxFlatVel value="177.500000" />
 			<fBrakeForce value="1.200000" />
 			<fBrakeBiasFront value="0.600000" />
 			<fHandBrakeForce value="0.800000" />
@@ -787,17 +787,17 @@
 			<handlingName>COMET6</handlingName>
 			<fMass value="1550.000000" />
 			<fInitialDragCoeff value="8.500000" />
-			<fDownforceModifier value="180" />
+			<!-- <fDownforceModifier value="180" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
 		    <vecInertiaMultiplier x="1.200000" y="1.500000" z="1.650000" />
 			<fDriveBiasFront value="0.050000" />
-			<nInitialDriveGears value="7" />
-			<fInitialDriveForce value="0.365000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="0.315000" />
 			<fDriveInertia value="1.000000" />
-			<fClutchChangeRateScaleUpShift value="4.200000" />
-			<fClutchChangeRateScaleDownShift value="4.200000" />
-			<fInitialDriveMaxFlatVel value="217.5" />
+			<fClutchChangeRateScaleUpShift value="2.200000" />
+			<fClutchChangeRateScaleDownShift value="2.200000" />
+			<fInitialDriveMaxFlatVel value="180.5" />
 			<fBrakeForce value="0.880000" />
 			<fBrakeBiasFront value="0.600000" />
 			<fHandBrakeForce value="0.800000" />
@@ -819,8 +819,8 @@
 			<fSuspensionBiasFront value="0.470000" />
 			<fAntiRollBarForce value="0.900000" />
 			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.330000" />
-			<fRollCentreHeightRear value="0.380000" />
+			<fRollCentreHeightFront value="0.110000" />
+			<fRollCentreHeightRear value="0.080000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -849,17 +849,17 @@
 			<handlingName>COMET7</handlingName>
 			<fMass value="1650.000000" />
 			<fInitialDragCoeff value="9.485000" />
-			<fDownforceModifier value="120" />
+			<!-- <fDownforceModifier value="120" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
 			<vecInertiaMultiplier x="1.200000" y="1.500000" z="1.650000" />
 			<fDriveBiasFront value="0.000000" />
-			<nInitialDriveGears value="8" />
-			<fInitialDriveForce value="0.349500" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="0.309500" />
 			<fDriveInertia value="1.000000" />
-			<fClutchChangeRateScaleUpShift value="4.200000" />
-			<fClutchChangeRateScaleDownShift value="4.200000" />
-			<fInitialDriveMaxFlatVel value="156.100000" />
+			<fClutchChangeRateScaleUpShift value="2.200000" />
+			<fClutchChangeRateScaleDownShift value="2.200000" />
+			<fInitialDriveMaxFlatVel value="176.100000" />
 			<fBrakeForce value="0.890000" />
 			<fBrakeBiasFront value="0.600000" />
 			<fHandBrakeForce value="0.800000" />
