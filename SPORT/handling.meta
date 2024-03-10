@@ -1034,7 +1034,7 @@
 			<fMass value="1500.000000" />
 			<fInitialDragCoeff value="10.480000" />
 			<fPercentSubmerged value="85.000000" />
-			<fDownforceModifier value="200" />
+			<!-- <fDownforceModifier value="200" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
 			<vecInertiaMultiplier x="1.00000" y="1.40000" z="1.350000" />
 			<fDriveBiasFront value="0.000000" />
@@ -1093,7 +1093,7 @@
 			<handlingName>COUREUR</handlingName>
 			<fMass value="1500.000000" />
 			<fInitialDragCoeff value="10.80000" />
-			<fDownforceModifier value="250.000" />
+			<!-- <fDownforceModifier value="250.000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.0350" z="0.0000" />
 			<vecInertiaMultiplier x="1.400000" y="1.350000" z="1.170000" />
@@ -1485,7 +1485,7 @@
 			<fMass value="1565.000000" />
 			<fInitialDragCoeff value="10.15000" />
 			<fPercentSubmerged value="85.000000" />
-			<fDownforceModifier value="120.000" />
+			<!-- <fDownforceModifier value="120.000" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="0.1500" z="0.00000" />
 			<vecInertiaMultiplier x="1.10000" y="1.150000" z="1.62000" />
 			<fDriveBiasFront value="0.000000" />
@@ -1605,7 +1605,7 @@
 			<handlingName>FLASHGT</handlingName>
 			<fMass value="1200.000000" />
 			<fInitialDragCoeff value="11.500000" />
-			<fDownforceModifier value="200.000" />
+			<!-- <fDownforceModifier value="200.000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.0000" z="-0.43000" />
 			<vecInertiaMultiplier x="1.400000" y="1.300000" z="1.0500000" />
@@ -1670,7 +1670,7 @@
         <Item type="CHandlingData">
         	<handlingName>FUROREGT</handlingName>
         	<fMass value="1880.000000" />
-			<fDownforceModifier value="450.000" />
+			<!-- <fDownforceModifier value="450.000" /> -->
         	<fInitialDragCoeff value="8.500000" />
         	<fPercentSubmerged value="85.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
@@ -1923,7 +1923,7 @@
 			<vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
 			<vecInertiaMultiplier x="1.100000" y="1.66000" z="1.58000" />
 			<fDriveBiasFront value="0.000000" />
-			<fDownforceModifier value="140.000" />
+			<!-- <fDownforceModifier value="140.000" /> -->
 			<nInitialDriveGears value="4" />
 			<fInitialDriveForce value="0.366750" />
 			<fDriveInertia value="1.000000" />
@@ -1982,7 +1982,7 @@
 			<handlingName>GB200</handlingName>
 			<fMass value="1180.000000" />
 			<fInitialDragCoeff value="11.000000" />
-			<fDownforceModifier value="150.000" />
+			<!-- <fDownforceModifier value="150.000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.05000" z="0.100000" />
 			<vecInertiaMultiplier x="1.000000" y="1.300000" z="1.100000" />
@@ -2172,7 +2172,7 @@
 			<handlingName>IMORGON</handlingName>
 			<fMass value="1600.000000" />
 			<fInitialDragCoeff value="26.80000" />
-			<fDownforceModifier value="250.000" />
+			<!-- <fDownforceModifier value="250.000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.0500" z="-0.5000" />
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
@@ -2232,7 +2232,7 @@
 			<handlingName>ISSI7</handlingName>
 			<fMass value="1000.000000" />
 			<fInitialDragCoeff value="12.100000" />
-			<fDownforceModifier value="200.000" />
+			<!-- <fDownforceModifier value="200.000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.07500" z="-0.10000" />
 			<vecInertiaMultiplier x="1.400000" y="1.300000" z="1.20000" />
@@ -2357,7 +2357,7 @@
 			<fMass value="1600.000000" />
 			<fInitialDragCoeff value="10.530000" />
 			<fPercentSubmerged value="85.000000" />
-			<fDownforceModifier value="350" />
+			<!-- <fDownforceModifier value="350" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.600000" />
 			<fDriveBiasFront value="0.500000" />
@@ -2534,7 +2534,7 @@
 			<handlingName>JUGULAR</handlingName>
 			<fMass value="1745.000000" />
 			<fInitialDragCoeff value="11.500000" />
-			<fDownforceModifier value="200.000" />
+			<!-- <fDownforceModifier value="200.000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.02000" z="0.000000" />
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
@@ -2836,7 +2836,7 @@
 			<handlingName>LOCUST</handlingName>
 			<fMass value="920.000000" />
 			<fInitialDragCoeff value="9.600000" />
-			<fDownforceModifier value="200.00" />
+			<!-- <fDownforceModifier value="200.00" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.150000" z="0.00000" />
 			<vecInertiaMultiplier x="1.000000" y="1.600000" z="1.000000" />
@@ -3137,7 +3137,7 @@
 			<handlingName>OMNIS</handlingName>
 			<fMass value="1090.000000" />
 			<fInitialDragCoeff value="11.000000" />
-			<fDownforceModifier value="2.00000" />
+			<!-- <fDownforceModifier value="2.00000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.300000" z="1.400000" />
@@ -3200,7 +3200,7 @@
 			<fMass value="2350.000000" />
 			<fInitialDragCoeff value="20.75000" />
 			<fPercentSubmerged value="85.000000" />
-			<fDownforceModifier value="150" />
+			<!-- <fDownforceModifier value="150" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="-0.02000" z="0.00000" />
 			<vecInertiaMultiplier x="1.100000" y="1.400000" z="1.550000" />
 			<fDriveBiasFront value="0.400000" />
@@ -3259,7 +3259,7 @@
 			<handlingName>PANTHERE</handlingName>
 			<fMass value="1100.000000" />
 			<fInitialDragCoeff value="9.75000" />
-			<fDownforceModifier value="120" />
+			<!-- <fDownforceModifier value="120" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.0500" z="0.02500" />
 			<vecInertiaMultiplier x="1.100000" y="1.360000" z="1.57500" />
@@ -3881,7 +3881,7 @@
 			<handlingName>REMUS</handlingName>
 			<fMass value="1105.000000" />
 			<fInitialDragCoeff value="10.200000" />
-			<fDownforceModifier value="120" />
+			<!-- <fDownforceModifier value="120" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="0.0500000" />
 			<vecInertiaMultiplier x="1.200000" y="1.350000" z="1.650000" />
@@ -4093,7 +4093,7 @@
 			<handlingName>RUSTON</handlingName>
 			<fMass value="800.000000" />
 			<fInitialDragCoeff value="10.250000" />
-			<fDownforceModifier value="1.15" />
+			<!-- <fDownforceModifier value="1.15" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.1250000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.00000" z="1.200000" />
@@ -4362,7 +4362,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SCHLAGEN</handlingName>
 			<fMass value="1550.000000" />
-			<fDownforceModifier value="150.000" />
+			<!-- <fDownforceModifier value="150.000" /> -->
 			<fInitialDragCoeff value="9.500000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.250000" z="0.000000" />
@@ -4540,7 +4540,7 @@
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.00000" z="0.000000" />
 			<vecInertiaMultiplier x="1.200000" y="1.360000" z="1.10000" />
-			<fDownforceModifier value="150" />
+			<!-- <fDownforceModifier value="150" /> -->
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="5" />
 			<fInitialDriveForce value="0.29500" />
@@ -4781,7 +4781,7 @@
 			<handlingName>SPECTER2</handlingName>
 			<fMass value="1450.000000" />
 			<fInitialDragCoeff value="9.200000" />
-			<fDownforceModifier value="1.75000" />
+			<!-- <fDownforceModifier value="1.75000" /> -->
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="0.000000" />
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
@@ -4984,7 +4984,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SUGOI</handlingName>
 			<fMass value="1380.000000" />
-			<fDownforceModifier value="110.00" />
+			<!-- <fDownforceModifier value="110.00" /> -->
 			<fInitialDragCoeff value="10.400000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.20000" z="0.000000" />
@@ -5349,7 +5349,7 @@
 			<fMass value="1650.000000" />
 			<fInitialDragCoeff value="10.275000" />
 			<fPercentSubmerged value="85.000000" />
-			<fDownforceModifier value="150" />
+			<!-- <fDownforceModifier value="150" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="-0.09500" z="0.08000" />
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.750000" />
 			<fDriveBiasFront value="0.000000" />
@@ -5409,7 +5409,7 @@
 			<fMass value="1650.000000" />
 			<fInitialDragCoeff value="10.175000" />
 			<fPercentSubmerged value="85.000000" />
-			<fDownforceModifier value="150" />
+			<!-- <fDownforceModifier value="150" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="-0.09500" z="0.08000" />
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.750000" />
 			<fDriveBiasFront value="0.000000" />
