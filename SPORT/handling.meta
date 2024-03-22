@@ -3022,23 +3022,23 @@
 		<Item type="CHandlingData">
 			<handlingName>NEON</handlingName>
 			<fMass value="2000.000000" />
-			<fInitialDragCoeff value="11.0000" />
+			<fInitialDragCoeff value="14.0000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.125000" z="-0.2000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.300000" z="1.200000" />
 			<fDriveBiasFront value="0.500000" />
 			<nInitialDriveGears value="1" />
-			<fInitialDriveForce value="0.2505000" />
+			<fInitialDriveForce value="0.2205000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="9.000000" />
 			<fClutchChangeRateScaleDownShift value="9.000000" />
-			<fInitialDriveMaxFlatVel value="156.500000" />
+			<fInitialDriveMaxFlatVel value="150.500000" />
 			<fBrakeForce value="1.30000" />
 			<fBrakeBiasFront value="0.60000" />
 			<fHandBrakeForce value="0.500000" />
 			<fSteeringLock value="40.000000" />
-			<fTractionCurveMax value="2.275000" />
-			<fTractionCurveMin value="2.20000" />
+			<fTractionCurveMax value="2.575000" />
+			<fTractionCurveMin value="2.30000" />
 			<fTractionCurveLateral value="22.500000" />
 			<fTractionSpringDeltaMax value="0.150000" />
 			<fLowSpeedTractionLossMult value="1.00000" />
@@ -3198,14 +3198,14 @@
 		<Item type="CHandlingData">
 			<handlingName>OMNISEGT</handlingName>
 			<fMass value="2350.000000" />
-			<fInitialDragCoeff value="9.00000" />
+			<fInitialDragCoeff value="14.00000" />
 			<fPercentSubmerged value="85.000000" />
 			<!-- <fDownforceModifier value="150" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="-0.02000" z="0.00000" />
 			<vecInertiaMultiplier x="1.100000" y="1.400000" z="1.550000" />
 			<fDriveBiasFront value="0.400000" />
 			<nInitialDriveGears value="1" />
-			<fInitialDriveForce value="0.300000" />
+			<fInitialDriveForce value="0.230000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="9.00000" />
 			<fClutchChangeRateScaleDownShift value="9.00000" />
