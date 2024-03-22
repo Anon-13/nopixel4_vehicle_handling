@@ -3198,14 +3198,14 @@
 		<Item type="CHandlingData">
 			<handlingName>OMNISEGT</handlingName>
 			<fMass value="2350.000000" />
-			<fInitialDragCoeff value="20.75000" />
+			<fInitialDragCoeff value="9.00000" />
 			<fPercentSubmerged value="85.000000" />
 			<!-- <fDownforceModifier value="150" /> -->
 			<vecCentreOfMassOffset x="0.000000" y="-0.02000" z="0.00000" />
 			<vecInertiaMultiplier x="1.100000" y="1.400000" z="1.550000" />
 			<fDriveBiasFront value="0.400000" />
-			<nInitialDriveGears value="2" />
-			<fInitialDriveForce value="0.580000" />
+			<nInitialDriveGears value="1" />
+			<fInitialDriveForce value="0.300000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="9.00000" />
 			<fClutchChangeRateScaleDownShift value="9.00000" />
