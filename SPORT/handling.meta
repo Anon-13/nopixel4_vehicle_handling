@@ -2901,22 +2901,22 @@
 		<Item type="CHandlingData">
 			<handlingName>LYNX</handlingName>
 			<fMass value="1725.000000" />
-			<fInitialDragCoeff value="8.700000" />
+			<fInitialDragCoeff value="7.500000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="-0.200000" />
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.315000" />
+			<fInitialDriveForce value="0.305000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="3.100000" />
 			<fClutchChangeRateScaleDownShift value="3.100000" />
-			<fInitialDriveMaxFlatVel value="157.000000" />
+			<fInitialDriveMaxFlatVel value="180.000000" />
 			<fBrakeForce value="1.00000" />
 			<fBrakeBiasFront value="0.550000" />
 			<fHandBrakeForce value="0.650000" />
 			<fSteeringLock value="40.000000" />
-			<fTractionCurveMax value="2.5600000" />
+			<fTractionCurveMax value="2.6600000" />
 			<fTractionCurveMin value="2.350000" />
 			<fTractionCurveLateral value="22.500000" />
 			<fTractionSpringDeltaMax value="0.150000" />
