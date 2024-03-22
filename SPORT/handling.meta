@@ -3651,24 +3651,24 @@
 		<Item type="CHandlingData">
 			<handlingName>R300</handlingName>
 			<fMass value="1590.000000" />
-			<fInitialDragCoeff value="9.850000" />
+			<fInitialDragCoeff value="8.750000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.03500" z="0.00000" />
 			<vecInertiaMultiplier x="1.250000" y="1.345000" z="1.45000" />
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.328800" />
+			<fInitialDriveForce value="0.310000" />
 			<fDriveInertia value="1.000000" />
-			<fClutchChangeRateScaleUpShift value="3.300000" />
-			<fClutchChangeRateScaleDownShift value="3.300000" />
-			<fInitialDriveMaxFlatVel value="151.65000" />
-			<fBrakeForce value="0.78000" />
+			<fClutchChangeRateScaleUpShift value="2.300000" />
+			<fClutchChangeRateScaleDownShift value="2.300000" />
+			<fInitialDriveMaxFlatVel value="181.65000" />
+			<fBrakeForce value="0.88000" />
 			<fBrakeBiasFront value="0.512500" />
 			<fHandBrakeForce value="0.480000" />
 			<fSteeringLock value="42.75000" />
-			<fTractionCurveMax value="2.495000" />
+			<fTractionCurveMax value="2.515000" />
 			<fTractionCurveMin value="2.295000" />
-			<fTractionCurveLateral value="22.35000" />
+			<fTractionCurveLateral value="22.15000" />
 			<fTractionSpringDeltaMax value="0.150000" />
 			<fLowSpeedTractionLossMult value="1.15000" />
 			<fCamberStiffnesss value="0.000000" />
