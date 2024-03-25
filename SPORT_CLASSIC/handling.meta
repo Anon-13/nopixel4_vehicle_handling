@@ -1352,17 +1352,17 @@
 		<Item type="CHandlingData">
 			<handlingName>PIGALLE</handlingName>
 			<fMass value="1500.000000" />
-			<fInitialDragCoeff value="5.90000" />
+			<fInitialDragCoeff value="11.90000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.060000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.550000" />
 			<fDriveBiasFront value="1.000000" />
 			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.265" />
+			<fInitialDriveForce value="0.205" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="2.000000" />
 			<fClutchChangeRateScaleDownShift value="2.000000" />
-			<fInitialDriveMaxFlatVel value="149.000000" />
+			<fInitialDriveMaxFlatVel value="159.000000" />
 			<fBrakeForce value="0.850000" />
 			<fBrakeBiasFront value="0.540000" />
 			<fHandBrakeForce value="1.000000" />
