@@ -4,7 +4,7 @@
         <Item type="CHandlingData">
         	<handlingName>AKUMA</handlingName>
         	<fMass value="250.000000" />
-        	<fInitialDragCoeff value="10.500000" />
+        	<fInitialDragCoeff value="3.000000" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -82,7 +82,7 @@
 		<Item type="CHandlingData">
 			<handlingName>AVARUS</handlingName>
 			<fMass value="230.000000" />
-			<fInitialDragCoeff value="9.000000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.140000" z="-0.250000" />
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.400000" />
@@ -160,7 +160,7 @@
         <Item type="CHandlingData">
             <handlingName>BAGGER</handlingName>
             <fMass value="230.000000" />
-            <fInitialDragCoeff value="11.500000" />
+            <fInitialDragCoeff value="4.000000" />
             <fPercentSubmerged value="95.000000" />
             <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
             <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -238,7 +238,7 @@
 		<Item type="CHandlingData">
 			<handlingName>BATI</handlingName>
 			<fMass value="230.000000" />
-			<fInitialDragCoeff value="11.500000" />
+			<fInitialDragCoeff value="3.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -316,7 +316,7 @@
 		<Item type="CHandlingData">
 			<handlingName>BF400</handlingName>
 			<fMass value="150.000000" />
-			<fInitialDragCoeff value="10.000000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.080000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -394,7 +394,7 @@
         <Item type="CHandlingData">
         	<handlingName>CARBON</handlingName>
         	<fMass value="250.000000" />
-        	<fInitialDragCoeff value="11.500000" />
+        	<fInitialDragCoeff value="3.000000" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -472,7 +472,7 @@
 		<Item type="CHandlingData">
 			<handlingName>CHIMERA</handlingName>
 			<fMass value="401.000000" />
-			<fInitialDragCoeff value="15.750000" />
+			<fInitialDragCoeff value="4.50000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.150000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.100000" y="1.100000" z="1.100000" />
@@ -550,7 +550,7 @@
 		<Item type="CHandlingData">
 			<handlingName>CLIFFHANG</handlingName>
 			<fMass value="140.000000" />
-			<fInitialDragCoeff value="8.80000" />
+			<fInitialDragCoeff value="4.00000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.080000" z="-0.050000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -628,7 +628,7 @@
         <Item type="CHandlingData">
             <handlingName>DAEMON</handlingName>
             <fMass value="250.000000" />
-            <fInitialDragCoeff value="11.5" />
+            <fInitialDragCoeff value="4.00000" />
             <fPercentSubmerged value="95.000000" />
             <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.300000" />
             <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -706,7 +706,7 @@
         <Item type="CHandlingData">
             <handlingName>DAEMON2</handlingName>
             <fMass value="250.000000" />
-            <fInitialDragCoeff value="11.5" />
+            <fInitialDragCoeff value="4.000000" />
             <fPercentSubmerged value="95.000000" />
             <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.300000" />
             <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -784,7 +784,7 @@
 		<Item type="CHandlingData">
 			<handlingName>DEATHBIKE</handlingName>
 			<fMass value="135.000000" />
-			<fInitialDragCoeff value="8.95000" />
+			<fInitialDragCoeff value="4.00000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
@@ -877,7 +877,7 @@
 		<Item type="CHandlingData">
 			<handlingName>DEATHBIKE2</handlingName>
 			<fMass value="135.000000" />
-			<fInitialDragCoeff value="8.95000" />
+			<fInitialDragCoeff value="4.00000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
@@ -970,7 +970,7 @@
 		<Item type="CHandlingData">
 			<handlingName>DEFILER</handlingName>
 			<fMass value="200.000000" />
-			<fInitialDragCoeff value="12.500000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -1048,7 +1048,7 @@
 		<Item type="CHandlingData">
 			<handlingName>DIABLOUS</handlingName>
 			<fMass value="220.000000" />
-			<fInitialDragCoeff value="9.400000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.060000" z="-0.10000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
@@ -1126,7 +1126,7 @@
 		<Item type="CHandlingData">
 			<handlingName>DIABLOUS2</handlingName>
 			<fMass value="210.000000" />
-			<fInitialDragCoeff value="9.400000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.060000" z="-0.10000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
@@ -1204,7 +1204,7 @@
 		<Item type="CHandlingData">
 			<handlingName>DOUBLE</handlingName>
 			<fMass value="200.000000" />
-			<fInitialDragCoeff value="11.500000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.000000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -1282,7 +1282,7 @@
 		<Item type="CHandlingData">
 			<handlingName>ENDURO</handlingName>
 			<fMass value="220.000000" />
-			<fInitialDragCoeff value="12.300000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.080000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -1360,7 +1360,7 @@
 		<Item type="CHandlingData">
 			<handlingName>ESSKEY</handlingName>
 			<fMass value="190.000000" />
-			<fInitialDragCoeff value="10.275000" />
+			<fInitialDragCoeff value="4.275000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
@@ -1438,7 +1438,7 @@
         <Item type="CHandlingData">
         	<handlingName>FAGGIO</handlingName>
         	<fMass value="100.000000" />
-        	<fInitialDragCoeff value="13.500000" />
+        	<fInitialDragCoeff value="4.500000" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.100000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -1516,7 +1516,7 @@
         <Item type="CHandlingData">
         	<handlingName>FAGGIO3</handlingName>
         	<fMass value="100.000000" />
-        	<fInitialDragCoeff value="13.500000" />
+        	<fInitialDragCoeff value="4.500000" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.100000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -1594,7 +1594,7 @@
         <Item type="CHandlingData">
         	<handlingName>FAGGION</handlingName>
         	<fMass value="100.000000" />
-        	<fInitialDragCoeff value="13.500000" />
+        	<fInitialDragCoeff value="4.500000" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.100000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -1672,7 +1672,7 @@
 		<Item type="CHandlingData">
 			<handlingName>FCR</handlingName>
 			<fMass value="210.000000" />
-			<fInitialDragCoeff value="9.500000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -1750,7 +1750,7 @@
 		<Item type="CHandlingData">
 			<handlingName>FCR2</handlingName>
 			<fMass value="200.000000" />
-			<fInitialDragCoeff value="9.500000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -1828,7 +1828,7 @@
 		<Item type="CHandlingData">
 			<handlingName>GARGOYLE</handlingName>
 			<fMass value="135.000000" />
-			<fInitialDragCoeff value="8.95000" />
+			<fInitialDragCoeff value="4.00000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
@@ -1906,7 +1906,7 @@
         <Item type="CHandlingData">
             <handlingName>HAKUCHOU</handlingName>
             <fMass value="250.000000" />
-            <fInitialDragCoeff value="12.500000" />
+            <fInitialDragCoeff value="3.000000" />
             <fPercentSubmerged value="95.000000" />
             <vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
             <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -1984,7 +1984,7 @@
         <Item type="CHandlingData">
 			<handlingName>HAKUCHOU2</handlingName>
             <fMass value="250.000000" />
-            <fInitialDragCoeff value="12.500000" />
+            <fInitialDragCoeff value="3.000000" />
             <fPercentSubmerged value="95.000000" />
             <vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
             <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -2086,7 +2086,7 @@
 		<Item type="CHandlingData">
 			<handlingName>HEXER</handlingName>
 			<fMass value="250.000000" />
-			<fInitialDragCoeff value="11.500000" />
+			<fInitialDragCoeff value="4.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.200000" z="-0.250000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -2164,7 +2164,7 @@
 		<Item type="CHandlingData">
 			<handlingName>INNOVAT</handlingName>
 			<fMass value="250.000000" />
-			<fInitialDragCoeff value="11.500000" />
+			<fInitialDragCoeff value="4.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.1000000" z="-0.050000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -2242,7 +2242,7 @@
 		<Item type="CHandlingData">
 			<handlingName>LECTRO</handlingName>
 			<fMass value="250.000000" />
-			<fInitialDragCoeff value="10.000000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -2320,7 +2320,7 @@
 		<Item type="CHandlingData">
 			<handlingName>MANCHEZ</handlingName>
 			<fMass value="190.000000" />
-			<fInitialDragCoeff value="10.275000" />
+			<fInitialDragCoeff value="4.275000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
@@ -2398,7 +2398,7 @@
 		<Item type="CHandlingData">
 			<handlingName>MANCHEZ2</handlingName>
 			<fMass value="160.000000" />
-			<fInitialDragCoeff value="10.275000" />
+			<fInitialDragCoeff value="4.275000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
@@ -2476,7 +2476,7 @@
 		<Item type="CHandlingData">
 			<handlingName>MANCHEZ3</handlingName>
 			<fMass value="175.000000" />
-			<fInitialDragCoeff value="10.575000" />
+			<fInitialDragCoeff value="4.575000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.02000" z="-0.120000" />
 			<vecInertiaMultiplier x="1.000000" y="1.380000" z="1.425000" />
@@ -2554,7 +2554,7 @@
 		<Item type="CHandlingData">
 			<handlingName>NEMESIS</handlingName>
 			<fMass value="148.000000" />
-			<fInitialDragCoeff value="12.750000" />
+			<fInitialDragCoeff value="3.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -2632,7 +2632,7 @@
 		<Item type="CHandlingData">
 			<handlingName>NIGHTBLADE</handlingName>
 			<fMass value="205.000000" />
-			<fInitialDragCoeff value="9.500000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.250000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
@@ -2710,7 +2710,7 @@
 		<Item type="CHandlingData">
 			<handlingName>OPPRESSOR</handlingName>
 			<fMass value="190.000000" />
-			<fInitialDragCoeff value="12.500000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.0000" z="-0.160000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -2822,7 +2822,7 @@
 		<Item type="CHandlingData">
 			<handlingName>OPPRESSOR2</handlingName>
 			<fMass value="220.000000" />
-			<fInitialDragCoeff value="12.500000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.10000" z="-0.160000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -2956,7 +2956,7 @@
         <Item type="CHandlingData">
         	<handlingName>PCJ</handlingName>
         	<fMass value="250.000000" />
-        	<fInitialDragCoeff value="12.500000" />
+        	<fInitialDragCoeff value="3.500000" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.150000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -3114,7 +3114,7 @@
 		<Item type="CHandlingData">
 			<handlingName>RATBIKE</handlingName>
 			<fMass value="180.000000" />
-			<fInitialDragCoeff value="10.000000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
@@ -3192,7 +3192,7 @@
 		<Item type="CHandlingData">
 			<handlingName>REEVER</handlingName>
 			<fMass value="205.000000" />
-			<fInitialDragCoeff value="11.950000" />
+			<fInitialDragCoeff value="3.950000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -3270,7 +3270,7 @@
 		<Item type="CHandlingData">
 			<handlingName>RROCKET</handlingName>
 			<fMass value="1140.000000" />
-			<fInitialDragCoeff value="16.750000" />
+			<fInitialDragCoeff value="3.750000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.150000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.100000" y="1.100000" z="1.100000" />
@@ -3350,7 +3350,7 @@
         <Item type="CHandlingData">
         	<handlingName>RUFFIAN</handlingName>
         	<fMass value="250.000000" />
-        	<fInitialDragCoeff value="12.5" />
+        	<fInitialDragCoeff value="3.5" />
         	<fPercentSubmerged value="95.000000" />
         	<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
         	<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -3428,7 +3428,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SANCTUS</handlingName>
 			<fMass value="250.000000" />
-			<fInitialDragCoeff value="14.00000" />
+			<fInitialDragCoeff value="3.500000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.140000" z="-0.250000" />
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.400000" />
@@ -3506,7 +3506,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SHINOBI</handlingName>
 			<fMass value="165.000000" />
-			<fInitialDragCoeff value="9.150000" />
+			<fInitialDragCoeff value="3.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.0000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -3584,7 +3584,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SHOTARO</handlingName>
 			<fMass value="230.000000" />
-			<fInitialDragCoeff value="11.000000" />
+			<fInitialDragCoeff value="3.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -3662,7 +3662,7 @@
 		<Item type="CHandlingData">
 			<handlingName>STRYDER</handlingName>
 			<fMass value="401.000000" />
-			<fInitialDragCoeff value="15.000000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
 			<vecInertiaMultiplier x="1.100000" y="1.100000" z="1.000000" />
@@ -3714,7 +3714,7 @@
 		<Item type="CHandlingData">
 			<handlingName>THRUST</handlingName>
 			<fMass value="270.000000" />
-			<fInitialDragCoeff value="12.5" />
+			<fInitialDragCoeff value="3.5" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.0" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -3792,7 +3792,7 @@
 		<Item type="CHandlingData">
 			<handlingName>VADER</handlingName>
 			<fMass value="230.000000" />
-			<fInitialDragCoeff value="13.75" />
+			<fInitialDragCoeff value="3.75" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -3870,7 +3870,7 @@
 		<Item type="CHandlingData">
 			<handlingName>VINDICATOR</handlingName>
 			<fMass value="270.000000" />
-			<fInitialDragCoeff value="12.5" />
+			<fInitialDragCoeff value="4.0" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.0" />
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
@@ -3948,7 +3948,7 @@
 		<Item type="CHandlingData">
 			<handlingName>VORTEX</handlingName>
 			<fMass value="190.000000" />
-			<fInitialDragCoeff value="12.400000" />
+			<fInitialDragCoeff value="3.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
@@ -4026,7 +4026,7 @@
 		<Item type="CHandlingData">
 			<handlingName>WOLFSBANE</handlingName>
 			<fMass value="180.000000" />
-			<fInitialDragCoeff value="10.000000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
@@ -4104,7 +4104,7 @@
 		<Item type="CHandlingData">
 			<handlingName>ZOMBIEA</handlingName>
 			<fMass value="225.000000" />
-			<fInitialDragCoeff value="9.750000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.280000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
@@ -4182,7 +4182,7 @@
 		<Item type="CHandlingData">
 			<handlingName>ZOMBIEB</handlingName>
 			<fMass value="225.000000" />
-			<fInitialDragCoeff value="9.750000" />
+			<fInitialDragCoeff value="4.000000" />
 			<fPercentSubmerged value="95.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.280000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
@@ -4260,7 +4260,7 @@
 	<Item type="CHandlingData">
 		<handlingName>sanchez</handlingName>
 		<fMass value="111.130000" />
-		<fInitialDragCoeff value="12.500000" />
+		<fInitialDragCoeff value="4.000000" />
 		<fPercentSubmerged value="95.000000" />
 		<vecCentreOfMassOffset x="0.000000" y="0.080000" z="-0.150000" />
 		<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.600000" />
