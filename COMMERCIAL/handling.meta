@@ -18,11 +18,11 @@
 			<fBrakeForce value="0.300000" />
 			<fBrakeBiasFront value="0.600000" />
 			<fHandBrakeForce value="0.200000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.650000" />
-			<fTractionCurveMin value="1.450000" />
+			<fTractionCurveMin value="2.450000" />
 			<fTractionCurveLateral value="16.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.485000" />
@@ -52,8 +52,13 @@
 			<strHandlingFlags>1</strHandlingFlags>
 			<strDamageFlags>20</strDamageFlags>
 			<AIHandling>TRUCK</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -75,9 +80,9 @@
 			<fBrakeForce value="0.250000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.70000" />
-			<fTractionCurveMin value="1.500000" />
+			<fTractionCurveMin value="2.500000" />
 			<fTractionCurveLateral value="17.000000" />
 			<fTractionSpringDeltaMax value="0.00000" />
 			<fLowSpeedTractionLossMult value="0.800000" />
@@ -177,9 +182,9 @@
 			<fBrakeForce value="0.250000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.70000" />
-			<fTractionCurveMin value="1.500000" />
+			<fTractionCurveMin value="2.500000" />
 			<fTractionCurveLateral value="17.000000" />
 			<fTractionSpringDeltaMax value="0.00000" />
 			<fLowSpeedTractionLossMult value="0.800000" />
@@ -279,9 +284,9 @@
 			<fBrakeForce value="0.850000" />
 			<fBrakeBiasFront value="0.500000" />
 			<fHandBrakeForce value="0.500000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.950000" />
-			<fTractionCurveMin value="1.750000" />
+			<fTractionCurveMin value="2.750000" />
 			<fTractionCurveLateral value="18.500000" />
 			<fTractionSpringDeltaMax value="0.030000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
@@ -313,8 +318,13 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>20</strDamageFlags>
 			<AIHandling>TRUCK</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -338,9 +348,9 @@
 			<fHandBrakeForce value="0.200000" />
 			<fSteeringLock value="37.000000" />
 			<fTractionCurveMax value="1.500000" />
-			<fTractionCurveMin value="1.300000" />
+			<fTractionCurveMin value="2.300000" />
 			<fTractionCurveLateral value="16.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.460000" />
@@ -370,8 +380,13 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -395,9 +410,9 @@
 			<fHandBrakeForce value="0.200000" />
 			<fSteeringLock value="37.000000" />
 			<fTractionCurveMax value="1.500000" />
-			<fTractionCurveMin value="1.300000" />
+			<fTractionCurveMin value="2.300000" />
 			<fTractionCurveLateral value="16.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.460000" />
@@ -456,9 +471,9 @@
 			<fHandBrakeForce value="0.200000" />
 			<fSteeringLock value="37.000000" />
 			<fTractionCurveMax value="1.500000" />
-			<fTractionCurveMin value="1.300000" />
+			<fTractionCurveMin value="2.300000" />
 			<fTractionCurveLateral value="16.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.460000" />
@@ -538,11 +553,11 @@
         	<fBrakeForce value="0.800000" />
         	<fBrakeBiasFront value="0.450000" />
         	<fHandBrakeForce value="0.400000" />
-        	<fSteeringLock value="40.000000" />
+        	<fSteeringLock value="30.000000" />
         	<fTractionCurveMax value="1.275000" />
-        	<fTractionCurveMin value="1.075000" />
+        	<fTractionCurveMin value="2.075000" />
         	<fTractionCurveLateral value="18.500000" />
-        	<fTractionSpringDeltaMax value="0.150000" />
+        	<fTractionSpringDeltaMax value="0.190000" />
         	<fLowSpeedTractionLossMult value="0.000000" />
         	<fCamberStiffnesss value="0.000000" />
         	<fTractionBiasFront value="0.450000" />
@@ -595,11 +610,11 @@
 			<fBrakeForce value="0.800000" />
 			<fBrakeBiasFront value="0.450000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.650000" />
-			<fTractionCurveMin value="1.550000" />
+			<fTractionCurveMin value="2.550000" />
 			<fTractionCurveLateral value="20.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.485000" />
@@ -629,8 +644,13 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -652,11 +672,11 @@
 			<fBrakeForce value="0.850000" />
 			<fBrakeBiasFront value="0.450000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="42.000000" />
+			<fSteeringLock value="32.000000" />
 			<fTractionCurveMax value="1.950000" />
-			<fTractionCurveMin value="1.750000" />
+			<fTractionCurveMin value="2.750000" />
 			<fTractionCurveLateral value="20.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.487500" />
@@ -686,8 +706,13 @@
 			<strHandlingFlags>100000</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -709,11 +734,11 @@
 			<fBrakeForce value="0.850000" />
 			<fBrakeBiasFront value="0.450000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
-			<fTractionCurveMax value="2.050000" />
-			<fTractionCurveMin value="1.950000" />
+			<fSteeringLock value="30.000000" />
+			<fTractionCurveMax value="3.050000" />
+			<fTractionCurveMin value="2.950000" />
 			<fTractionCurveLateral value="20.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.45000" />
@@ -743,8 +768,13 @@
 			<strHandlingFlags>100000</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -766,11 +796,11 @@
 			<fBrakeForce value="0.250000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.650000" />
-			<fTractionCurveMin value="1.450000" />
+			<fTractionCurveMin value="2.450000" />
 			<fTractionCurveLateral value="17.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.500000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.475000" />
@@ -800,8 +830,13 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>20</strDamageFlags>
 			<AIHandling>TRUCK</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -823,9 +858,9 @@
 			<fBrakeForce value="0.250000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.50000" />
-			<fTractionCurveMin value="1.350000" />
+			<fTractionCurveMin value="2.350000" />
 			<fTractionCurveLateral value="17.000000" />
 			<fTractionSpringDeltaMax value="0.075000" />
 			<fLowSpeedTractionLossMult value="0.800000" />
@@ -937,9 +972,9 @@
 			<fBrakeForce value="0.250000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.150000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.950000" />
-			<fTractionCurveMin value="1.650000" />
+			<fTractionCurveMin value="2.650000" />
 			<fTractionCurveLateral value="17.000000" />
 			<fTractionSpringDeltaMax value="0.050000" />
 			<fLowSpeedTractionLossMult value="0.500000" />
@@ -1037,9 +1072,9 @@
 			<fBrakeForce value="0.250000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.400000" />
-			<fSteeringLock value="40.000000" />
+			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.750000" />
-			<fTractionCurveMin value="1.550000" />
+			<fTractionCurveMin value="2.550000" />
 			<fTractionCurveLateral value="19.000000" />
 			<fTractionSpringDeltaMax value="0.130000" />
 			<fLowSpeedTractionLossMult value="0.500000" />
@@ -1071,8 +1106,13 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>20</strDamageFlags>
 			<AIHandling>TRUCK</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -1096,7 +1136,7 @@
 			<fHandBrakeForce value="0.500000" />
 			<fSteeringLock value="35.000000" />
 			<fTractionCurveMax value="1.550000" />
-			<fTractionCurveMin value="1.350000" />
+			<fTractionCurveMin value="2.350000" />
 			<fTractionCurveLateral value="18.500000" />
 			<fTractionSpringDeltaMax value="0.030000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
@@ -1128,8 +1168,13 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>20</strDamageFlags>
 			<AIHandling>TRUCK</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -1153,9 +1198,9 @@
 			<fHandBrakeForce value="0.300000" />
 			<fSteeringLock value="38.000000" />
 			<fTractionCurveMax value="1.650000" />
-			<fTractionCurveMin value="1.400000" />
+			<fTractionCurveMin value="2.400000" />
 			<fTractionCurveLateral value="19.000000" />
-			<fTractionSpringDeltaMax value="0.150000" />
+			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="0.000000" />
 			<fCamberStiffnesss value="0.000000" />
 			<fTractionBiasFront value="0.480000" />
@@ -1185,8 +1230,13 @@
 			<strHandlingFlags>8000000</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
-			<SubHandlingData>
-				<Item type="NULL" />
+			<SubHandlingData> <!-- testtest -->
+				<Item type="CCarHandlingData">				
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+					<fBackEndPopUpCarImpulseMult value="0.100000" />
+					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
+					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
