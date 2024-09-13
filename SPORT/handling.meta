@@ -104,7 +104,7 @@
 			<fBrakeBiasFront value="0.550000" />
 			<fHandBrakeForce value="0.700000" />
 			<fSteeringLock value="30.000000" />
-			<fTractionCurveMax value="3.420000" />
+			<fTractionCurveMax value="3.620000" />
 			<fTractionCurveMin value="3.320000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
@@ -142,6 +142,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -203,6 +204,7 @@
                     <fBackEndPopUpCarImpulseMult value="0.100000" />
                     <fBackEndPopUpBuildingImpulseMult value="0.030000" />
                     <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+		      			<strAdvancedFlags>1C008000</strAdvancedFlags>
                 </Item>
                 <Item type="NULL" />
                 <Item type="NULL" />
@@ -264,6 +266,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -325,6 +328,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -383,6 +387,7 @@
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
 				<Item type="CCarHandlingData">
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
@@ -568,6 +573,7 @@
                     <fBackEndPopUpCarImpulseMult value="0.100000" />
                     <fBackEndPopUpBuildingImpulseMult value="0.030000" />
                     <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+				    <strAdvancedFlags>1C008000</strAdvancedFlags>
                 </Item>
                 <Item type="NULL" />
                 <Item type="NULL" />
@@ -630,6 +636,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -670,8 +677,8 @@
 			<fSuspensionBiasFront value="0.420000" />
 			<fAntiRollBarForce value="0.900000" />
 			<fAntiRollBarBiasFront value="0.300000" />
-			<fRollCentreHeightFront value="0.150000" />
-			<fRollCentreHeightRear value="0.150000" />
+			<fRollCentreHeightFront value="0.30000" />
+			<fRollCentreHeightRear value="0.30000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -742,7 +749,7 @@
 			<fHandBrakeForce value="0.800000" />
 			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="3.70000" />
-			<fTractionCurveMin value="3.50000" />
+			<fTractionCurveMin value="3.30000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
@@ -776,6 +783,7 @@
 			<AIHandling>SPORTS_CAR</AIHandling>
 			<SubHandlingData>
 				<Item type="CCarHandlingData">
+				  <strAdvancedFlags>1C008000</strAdvancedFlags>
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
@@ -804,7 +812,7 @@
 			<fHandBrakeForce value="0.800000" />
 			<fSteeringLock value="31.6500000" />
 			<fTractionCurveMax value="3.70000" />
-			<fTractionCurveMin value="3.50000" />
+			<fTractionCurveMin value="3.30000" />
 			<fTractionCurveLateral value="22.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
@@ -820,8 +828,8 @@
 			<fSuspensionBiasFront value="0.470000" />
 			<fAntiRollBarForce value="0.900000" />
 			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.110000" />
-			<fRollCentreHeightRear value="0.080000" />
+			<fRollCentreHeightFront value="0.250000" />
+			<fRollCentreHeightRear value="0.250000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -866,7 +874,7 @@
 			<fHandBrakeForce value="0.800000" />
 			<fSteeringLock value="31.625000" />
 			<fTractionCurveMax value="3.655000" />
-			<fTractionCurveMin value="3.520000" />
+			<fTractionCurveMin value="3.420000" />
 			<fTractionCurveLateral value="22.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
@@ -880,10 +888,10 @@
 			<fSuspensionLowerLimit value="-0.110000" />
 			<fSuspensionRaise value="0.0150000" />
 			<fSuspensionBiasFront value="0.470000" />
-			<fAntiRollBarForce value="0.400000" />
+			<fAntiRollBarForce value="0.900000" />
 			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.120000" />
-			<fRollCentreHeightRear value="0.170000" />
+			<fRollCentreHeightFront value="0.250000" />
+			<fRollCentreHeightRear value="0.250000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -942,9 +950,9 @@
 			<fSuspensionRaise value="0.000000" />
 			<fSuspensionBiasFront value="0.470000" />
 			<fAntiRollBarForce value="0.825000" />
-			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.050000" />
-			<fRollCentreHeightRear value="0.050000" />
+			<fAntiRollBarBiasFront value="0.500000" />
+			<fRollCentreHeightFront value="0.10000" />
+			<fRollCentreHeightRear value="0.10000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.600000" />
@@ -964,6 +972,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -1202,8 +1211,8 @@
 			<fBrakeBiasFront value="0.520000" />
 			<fHandBrakeForce value="0.650000" />
 			<fSteeringLock value="30.000000" />
-			<fTractionCurveMax value="3.350000" />
-			<fTractionCurveMin value="3.050000" />
+			<fTractionCurveMax value="3.650000" />
+			<fTractionCurveMin value="3.250000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.100000" />
@@ -1218,9 +1227,9 @@
 			<fSuspensionRaise value="0.015000" />
 			<fSuspensionBiasFront value="0.410000" />
 			<fAntiRollBarForce value="0.850000" />
-			<fAntiRollBarBiasFront value="0.675000" />
-			<fRollCentreHeightFront value="0.210000" />
-			<fRollCentreHeightRear value="0.210000" />
+			<fAntiRollBarBiasFront value="0.500000" />
+			<fRollCentreHeightFront value="0.250000" />
+			<fRollCentreHeightRear value="0.250000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.600000" />
@@ -1281,8 +1290,8 @@
 			<fSuspensionBiasFront value="0.490000" />
 			<fAntiRollBarForce value="1.000000" />
 			<fAntiRollBarBiasFront value="0.650000" />
-			<fRollCentreHeightFront value="0.220000" />
-			<fRollCentreHeightRear value="0.220000" />
+			<fRollCentreHeightFront value="0.320000" />
+			<fRollCentreHeightRear value="0.320000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.600000" />
@@ -1448,7 +1457,7 @@
 			<fBrakeForce value="0.90000" />
 			<fBrakeBiasFront value="0.465000" />
 			<fHandBrakeForce value="0.450000" />
-			<fSteeringLock value="31.875000" />
+			<fSteeringLock value="30.875000" />
 			<fTractionCurveMax value="3.561500" />
 			<fTractionCurveMin value="3.215000" />
 			<fTractionCurveLateral value="23.00000" />
@@ -1463,11 +1472,11 @@
 			<fSuspensionUpperLimit value="0.055000" />
 			<fSuspensionLowerLimit value="-0.090000" />
 			<fSuspensionRaise value="0.010000" />
-			<fSuspensionBiasFront value="0.510000" />
-			<fAntiRollBarForce value="0.700000" />
-			<fAntiRollBarBiasFront value="0.717500" />
-			<fRollCentreHeightFront value="0.08000" />
-			<fRollCentreHeightRear value="0.055000" />
+			<fSuspensionBiasFront value="0.710000" />
+			<fAntiRollBarForce value="0.900000" />
+			<fAntiRollBarBiasFront value="0.517500" />
+			<fRollCentreHeightFront value="0.20000" />
+			<fRollCentreHeightRear value="0.20000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.800000" />
@@ -1609,6 +1618,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -1633,9 +1643,9 @@
 			<fBrakeBiasFront value="0.550000" />
 			<fHandBrakeForce value="0.700000" />
 			<fSteeringLock value="30.000000" />
-			<fTractionCurveMax value="3.25000" />
-			<fTractionCurveMin value="2.9000" />
-			<fTractionCurveLateral value="20.000000" />
+			<fTractionCurveMax value="3.45000" />
+			<fTractionCurveMin value="3.2000" />
+			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
 			<fCamberStiffnesss value="0.000000" />
@@ -1649,7 +1659,7 @@
 			<fSuspensionRaise value="0.030000" />
 			<fSuspensionBiasFront value="0.500000" />
 			<fAntiRollBarForce value="0.750000" />
-			<fAntiRollBarBiasFront value="0.100000" />
+			<fAntiRollBarBiasFront value="0.500000" />
 			<fRollCentreHeightFront value="0.10000" />
 			<fRollCentreHeightRear value="0.10000" />
 			<fCollisionDamageMult value="0.700000" />
@@ -1674,7 +1684,8 @@
 					<fCamberRear value="-0.00400" />
 					<fMaxDriveBiasTransfer value="0.5" />
 					<fEngineResistance value="0.01" />
-					<strAdvancedFlags>F0000</strAdvancedFlags>
+				<!--	<strAdvancedFlags>F0000</strAdvancedFlags> -->
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -1716,8 +1727,8 @@
         	<fSuspensionBiasFront value="0.485000" />
         	<fAntiRollBarForce value="0.800000" />
         	<fAntiRollBarBiasFront value="0.545000" />
-        	<fRollCentreHeightFront value="0.12000" />
-        	<fRollCentreHeightRear value="0.16000" />
+        	<fRollCentreHeightFront value="0.25000" />
+        	<fRollCentreHeightRear value="0.25000" />
         	<fCollisionDamageMult value="1.000000" />
         	<fWeaponDamageMult value="1.000000" />
         	<fDeformationDamageMult value="0.600000" />
@@ -1737,6 +1748,7 @@
         			<fBackEndPopUpCarImpulseMult value="0.100000" />
         			<fBackEndPopUpBuildingImpulseMult value="0.030000" />
         			<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					    <strAdvancedFlags>1C008000</strAdvancedFlags>
         		</Item>
         		<Item type="NULL" />
         		<Item type="NULL" />
@@ -1799,6 +1811,7 @@
 			    <fBackEndPopUpCarImpulseMult value="0.100000" />
 			    <fBackEndPopUpBuildingImpulseMult value="0.030000" />
 			    <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 			</Item>
 			 <Item type="NULL" />
 			 <Item type="NULL" />
@@ -1860,6 +1873,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -2089,8 +2103,8 @@
 			<fSuspensionBiasFront value="0.470000" />
 			<fAntiRollBarForce value="0.700000" />
 			<fAntiRollBarBiasFront value="0.680000" />
-			<fRollCentreHeightFront value="0.120000" />
-			<fRollCentreHeightRear value="0.160000" />
+			<fRollCentreHeightFront value="0.250000" />
+			<fRollCentreHeightRear value="0.250000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -2261,8 +2275,8 @@
 			<fBrakeBiasFront value="0.550000" />
 			<fHandBrakeForce value="0.700000" />
 			<fSteeringLock value="30.000000" />
-			<fTractionCurveMax value="3.35000" />
-			<fTractionCurveMin value="2.95000" />
+			<fTractionCurveMax value="3.65000" />
+			<fTractionCurveMin value="3.35000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
@@ -2277,9 +2291,9 @@
 			<fSuspensionRaise value="0.070000" />
 			<fSuspensionBiasFront value="0.520000" />
 			<fAntiRollBarForce value="0.90000" />
-			<fAntiRollBarBiasFront value="0.30000" />
-			<fRollCentreHeightFront value="0.35000" />
-			<fRollCentreHeightRear value="0.37000" />
+			<fAntiRollBarBiasFront value="0.50000" />
+			<fRollCentreHeightFront value="0.40000" />
+			<fRollCentreHeightRear value="0.40000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -2327,7 +2341,7 @@
 			<fHandBrakeForce value="0.500000" />
 			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="3.620000" />
-			<fTractionCurveMin value="3.500000" />
+			<fTractionCurveMin value="3.300000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.300000" />
@@ -2380,16 +2394,16 @@
 			<nInitialDriveGears value="6" />
 			<fInitialDriveForce value="0.311250" />
 			<fDriveInertia value="1.000000" />
-			<fClutchChangeRateScaleUpShift value="8.000000" />
-			<fClutchChangeRateScaleDownShift value="8.000000" />
+			<fClutchChangeRateScaleUpShift value="3.000000" />
+			<fClutchChangeRateScaleDownShift value="3.000000" />
 			<fInitialDriveMaxFlatVel value="183.1500" />
 			<fBrakeForce value="1.250000" />
 			<fBrakeBiasFront value="0.460000" />
 			<fHandBrakeForce value="0.480000" />
 			<fSteeringLock value="31.850000" />
 			<fTractionCurveMax value="3.737000" />
-			<fTractionCurveMin value="3.555000" />
-			<fTractionCurveLateral value="24.000000" />
+			<fTractionCurveMin value="3.455000" />
+			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.380000" />
 			<fCamberStiffnesss value="0.000000" />
@@ -2482,7 +2496,7 @@
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
 				<Item type="CCarHandlingData">
-					<strAdvancedFlags>F0000</strAdvancedFlags>
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -2544,6 +2558,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -2751,7 +2766,7 @@
 			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="3.20000" />
 			<fTractionCurveMin value="3.00000" />
-			<fTractionCurveLateral value="22.000000" />
+			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
 			<fCamberStiffnesss value="0.000000" />
@@ -2766,8 +2781,8 @@
 			<fSuspensionBiasFront value="0.500000" />
 			<fAntiRollBarForce value="0.6000" />
 			<fAntiRollBarBiasFront value="0.500000" />
-			<fRollCentreHeightFront value="0.210000" />
-			<fRollCentreHeightRear value="0.250000" />
+			<fRollCentreHeightFront value="0.310000" />
+			<fRollCentreHeightRear value="0.350000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -2787,6 +2802,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -2955,8 +2971,8 @@
 			<fSuspensionBiasFront value="0.470000" />
 			<fAntiRollBarForce value="1.000000" />
 			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.12000" />
-			<fRollCentreHeightRear value="0.16000" />
+			<fRollCentreHeightFront value="0.22000" />
+			<fRollCentreHeightRear value="0.26000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.600000" />
@@ -2976,6 +2992,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -3559,6 +3576,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -3620,6 +3638,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -3720,8 +3739,8 @@
 			<fSuspensionBiasFront value="0.520000" />
 			<fAntiRollBarForce value="1.000000" />
 			<fAntiRollBarBiasFront value="0.5015500" />
-			<fRollCentreHeightFront value="0.132500" />
-			<fRollCentreHeightRear value="0.130000" />
+			<fRollCentreHeightFront value="0.20000" />
+			<fRollCentreHeightRear value="0.20000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.800000" />
@@ -3826,9 +3845,9 @@
 			<fBrakeForce value="1.000000" />
 			<fBrakeBiasFront value="0.450000" />
 			<fHandBrakeForce value="0.600000" />
-			<fSteeringLock value="33.000000" />
-			<fTractionCurveMax value="3.450000" />
-			<fTractionCurveMin value="3.250000" />
+			<fSteeringLock value="30.000000" />
+			<fTractionCurveMax value="3.550000" />
+			<fTractionCurveMin value="3.350000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.050000" />
 			<fLowSpeedTractionLossMult value="1.000000" />
@@ -3841,11 +3860,11 @@
 			<fSuspensionUpperLimit value="0.060000" />
 			<fSuspensionLowerLimit value="-0.080000" />
 			<fSuspensionRaise value="0.000000" />
-			<fSuspensionBiasFront value="0.450000" />
+			<fSuspensionBiasFront value="0.350000" />
 			<fAntiRollBarForce value="0.700000" />
-			<fAntiRollBarBiasFront value="0.500000" />
-			<fRollCentreHeightFront value="0.290000" />
-			<fRollCentreHeightRear value="0.280000" />
+			<fAntiRollBarBiasFront value="0.600000" />
+			<fRollCentreHeightFront value="0.350000" />
+			<fRollCentreHeightRear value="0.350000" />
 			<fCollisionDamageMult value="0.700000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
@@ -3865,6 +3884,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.075000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.250000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -4043,6 +4063,7 @@
 						<Item />
 						<Item />
 					</uWeaponHash>
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 					<WeaponSeats content="int_array">0
 						0
 						0</WeaponSeats>
@@ -4422,8 +4443,8 @@
 			<fBrakeForce value="0.800000" />
 			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.520000" />
-			<fSteeringLock value="38.000000" />
-			<fTractionCurveMax value="3.500000" />
+			<fSteeringLock value="31.000000" />
+			<fTractionCurveMax value="3.600000" />
 			<fTractionCurveMin value="3.300000" />
 			<fTractionCurveLateral value="23.000000" />
 			<fTractionSpringDeltaMax value="0.190000" />
@@ -4438,10 +4459,10 @@
 			<fSuspensionLowerLimit value="-0.100000" />
 			<fSuspensionRaise value="0.000000" />
 			<fSuspensionBiasFront value="0.530000" />
-			<fAntiRollBarForce value="0.600000" />
+			<fAntiRollBarForce value="0.800000" />
 			<fAntiRollBarBiasFront value="0.540000" />
-			<fRollCentreHeightFront value="0.100000" />
-			<fRollCentreHeightRear value="0.100000" />
+			<fRollCentreHeightFront value="0.150000" />
+			<fRollCentreHeightRear value="0.150000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.800000" />
@@ -4457,6 +4478,9 @@
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
+		  	<Item type="CCarHandlingData">
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -4517,6 +4541,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -4574,6 +4599,9 @@
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
+		   	<Item type="CCarHandlingData">
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -4695,6 +4723,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -4818,6 +4847,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -4880,6 +4910,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -4938,7 +4969,7 @@
 			<AIHandling>SPORTS_CAR</AIHandling>
 			<SubHandlingData>
 				<Item type="CCarHandlingData">
-					<strAdvancedFlags>34008000</strAdvancedFlags>
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 					<AdvancedData>
 						<Item type="CAdvancedData">
 							<Slot value="20" />
@@ -5023,6 +5054,10 @@
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>SPORTS_CAR</AIHandling>
 			<SubHandlingData>
+	  		<Item type="CCarHandlingData">
+					<!-- <strAdvancedFlags>4000000</strAdvancedFlags> -->
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
+				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
 			</SubHandlingData>
@@ -5144,6 +5179,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -5329,6 +5365,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -5573,6 +5610,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -5696,6 +5734,7 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
@@ -6007,7 +6046,7 @@
 					<fToeFront value="0.02" />
 					<fEngineResistance value="0.05" />
 					<fCamberFront value="-0.0075" />
-					<strAdvancedFlags>40000</strAdvancedFlags>
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="CVehicleWeaponHandlingData">
 					<uWeaponHash>
@@ -6087,7 +6126,7 @@
 					<fToeFront value="0.02" />
 					<fEngineResistance value="0.05" />
 					<fCamberFront value="-0.0075" />
-					<strAdvancedFlags>40000</strAdvancedFlags>
+					<strAdvancedFlags>1C008000</strAdvancedFlags>
 				</Item>
 				<Item type="CVehicleWeaponHandlingData">
 					<uWeaponHash>
